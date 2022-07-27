@@ -9,15 +9,11 @@ Context
 
 Using Watson Analytics, you can predict behavior to retain your customers. You can analyze all relevant customer data and develop focused customer retention programs.
 
-Inspiration
+Objective
 
-Understand customer demographics and buying behavior. Use predictive analytics to analyze the most profitable customers and how they interact. Take targeted actions to increase profitable customer response, retention, and growth.
+The goal is to predict the customer LTV of an auto insurance company. There are 24 columns of data including LTV, and we want to predict LTV through correlation analysis between the dependent variable LTV and the remaining 23 columns (independent variables).
 
-Source
-
-https://www.ibm.com/communities/analytics/watson-analytics-blog/marketing-customer-value-analysis/
 _________________________________
-
 Content:
 
 Variable 	
