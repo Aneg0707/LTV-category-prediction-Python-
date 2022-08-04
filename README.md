@@ -11,7 +11,12 @@ Using Watson Analytics, you can predict behavior to retain your customers. You c
 
 Objective
 
-The goal is to predict the customer LTV of an auto insurance company. There are 24 columns of data including LTV, and we want to predict LTV through correlation analysis between the dependent variable LTV and the remaining 23 columns (independent variables).
+The data set contains the results of an auto insurance company's marketing campaign to retain customers by offering customers with expiring policies one of four different renewal proposals.
+
+
+The goal is to predict the customer LTV category of an auto insurance company. There are 24 variables (14 policy profile variables and 10 customer profile variables)
+
+
 
 _________________________________
 Content:
