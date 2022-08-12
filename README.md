@@ -1,4 +1,5 @@
-# IBM-Watson-Marketing-Customer-Value-Data
+# LTV category prediction
+
 
 Dataset from Kaggle:
 https://www.kaggle.com/datasets/pankajjsh06/ibm-watson-marketing-customer-value-data?resource=download
