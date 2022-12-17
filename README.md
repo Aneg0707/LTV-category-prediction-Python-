@@ -1,4 +1,4 @@
-# LTV category prediction
+# LTV category prediction (Python)
 
 
 Dataset from Kaggle:
